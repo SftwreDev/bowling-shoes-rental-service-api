@@ -1,0 +1,1001 @@
+Age,Disability Status,Pre-existing Medical Condition
+76,Disabled,Chronic Condition
+7,Not Disabled,Hypertension
+75,Disabled,None
+67,Not Disabled,Chronic Condition
+67,Not Disabled,Hypertension
+38,Not Disabled,None
+12,Disabled,None
+12,Not Disabled,Chronic Condition
+28,Disabled,Diabetes
+31,Not Disabled,None
+1,Disabled,Diabetes
+33,Not Disabled,Chronic Condition
+54,Disabled,None
+65,Disabled,Hypertension
+69,Disabled,None
+51,Not Disabled,None
+22,Not Disabled,Chronic Condition
+59,Disabled,Diabetes
+15,Disabled,None
+42,Not Disabled,Diabetes
+69,Not Disabled,Hypertension
+64,Disabled,None
+89,Not Disabled,Diabetes
+42,Not Disabled,Chronic Condition
+22,Not Disabled,Diabetes
+70,Not Disabled,Chronic Condition
+20,Not Disabled,Diabetes
+30,Not Disabled,None
+31,Disabled,Diabetes
+20,Disabled,None
+21,Disabled,None
+44,Disabled,None
+66,Not Disabled,Diabetes
+90,Disabled,Chronic Condition
+6,Not Disabled,Hypertension
+24,Not Disabled,None
+19,Not Disabled,None
+14,Not Disabled,Diabetes
+69,Disabled,Diabetes
+22,Not Disabled,None
+16,Not Disabled,Diabetes
+76,Disabled,None
+32,Disabled,None
+79,Disabled,Hypertension
+59,Not Disabled,Chronic Condition
+85,Not Disabled,Diabetes
+81,Disabled,Hypertension
+65,Not Disabled,Hypertension
+45,Disabled,Diabetes
+79,Not Disabled,Diabetes
+32,Not Disabled,None
+49,Disabled,Chronic Condition
+10,Disabled,None
+32,Not Disabled,Diabetes
+16,Not Disabled,Chronic Condition
+8,Disabled,Chronic Condition
+3,Disabled,None
+85,Not Disabled,Hypertension
+79,Disabled,Hypertension
+2,Disabled,Diabetes
+61,Disabled,Chronic Condition
+45,Not Disabled,Hypertension
+56,Disabled,Diabetes
+12,Disabled,Hypertension
+73,Not Disabled,Hypertension
+56,Disabled,Hypertension
+25,Not Disabled,None
+37,Not Disabled,Diabetes
+41,Disabled,None
+36,Disabled,None
+40,Disabled,Diabetes
+4,Disabled,Hypertension
+85,Disabled,None
+13,Not Disabled,Diabetes
+55,Not Disabled,None
+29,Not Disabled,None
+86,Disabled,Hypertension
+87,Not Disabled,Chronic Condition
+5,Not Disabled,None
+90,Disabled,Diabetes
+51,Not Disabled,None
+66,Not Disabled,None
+75,Not Disabled,Diabetes
+66,Not Disabled,Diabetes
+44,Not Disabled,Hypertension
+71,Disabled,Diabetes
+42,Disabled,Diabetes
+39,Not Disabled,None
+77,Disabled,Diabetes
+9,Disabled,Hypertension
+82,Not Disabled,None
+46,Disabled,None
+23,Disabled,Diabetes
+65,Not Disabled,Diabetes
+26,Not Disabled,Diabetes
+45,Not Disabled,Diabetes
+83,Disabled,Diabetes
+63,Not Disabled,None
+49,Not Disabled,Diabetes
+56,Disabled,Hypertension
+40,Disabled,Chronic Condition
+70,Disabled,Chronic Condition
+35,Not Disabled,None
+51,Disabled,None
+79,Not Disabled,Chronic Condition
+69,Disabled,None
+68,Disabled,Hypertension
+60,Not Disabled,None
+79,Disabled,None
+43,Disabled,Diabetes
+9,Disabled,Diabetes
+62,Not Disabled,None
+19,Disabled,Chronic Condition
+75,Disabled,Diabetes
+32,Disabled,None
+53,Not Disabled,Hypertension
+36,Not Disabled,Diabetes
+71,Disabled,None
+64,Disabled,None
+21,Disabled,None
+3,Disabled,Diabetes
+43,Not Disabled,Hypertension
+80,Not Disabled,None
+57,Not Disabled,Hypertension
+74,Not Disabled,Chronic Condition
+35,Not Disabled,None
+51,Disabled,Hypertension
+80,Disabled,None
+33,Disabled,Chronic Condition
+59,Not Disabled,None
+5,Not Disabled,Hypertension
+7,Not Disabled,Hypertension
+65,Not Disabled,Hypertension
+62,Not Disabled,None
+18,Disabled,Diabetes
+64,Disabled,Hypertension
+60,Disabled,None
+47,Not Disabled,Chronic Condition
+90,Not Disabled,Diabetes
+82,Not Disabled,Chronic Condition
+70,Not Disabled,Diabetes
+38,Not Disabled,Diabetes
+47,Not Disabled,Hypertension
+37,Not Disabled,Hypertension
+4,Disabled,Chronic Condition
+13,Disabled,Chronic Condition
+80,Disabled,None
+13,Disabled,Hypertension
+88,Not Disabled,Diabetes
+20,Not Disabled,Chronic Condition
+71,Not Disabled,Hypertension
+56,Disabled,Diabetes
+8,Not Disabled,Diabetes
+74,Not Disabled,Chronic Condition
+51,Disabled,None
+65,Not Disabled,Diabetes
+28,Disabled,Hypertension
+90,Not Disabled,None
+65,Not Disabled,Hypertension
+19,Not Disabled,Diabetes
+18,Disabled,None
+49,Disabled,None
+47,Not Disabled,Hypertension
+16,Not Disabled,None
+28,Disabled,None
+30,Disabled,Chronic Condition
+18,Disabled,None
+12,Disabled,None
+55,Disabled,Diabetes
+60,Not Disabled,Diabetes
+71,Disabled,Diabetes
+34,Not Disabled,Chronic Condition
+0,Not Disabled,Hypertension
+66,Not Disabled,None
+61,Not Disabled,Chronic Condition
+83,Disabled,Diabetes
+74,Disabled,Hypertension
+3,Not Disabled,None
+65,Not Disabled,None
+68,Not Disabled,None
+62,Not Disabled,Diabetes
+29,Not Disabled,Chronic Condition
+27,Not Disabled,Hypertension
+28,Not Disabled,Chronic Condition
+58,Disabled,None
+15,Disabled,Diabetes
+20,Not Disabled,Hypertension
+45,Not Disabled,Diabetes
+37,Disabled,None
+82,Disabled,Hypertension
+61,Not Disabled,Hypertension
+62,Not Disabled,None
+59,Disabled,Diabetes
+71,Not Disabled,Hypertension
+13,Not Disabled,Hypertension
+89,Disabled,None
+88,Not Disabled,None
+44,Disabled,Hypertension
+79,Not Disabled,Hypertension
+6,Not Disabled,None
+85,Disabled,Chronic Condition
+16,Disabled,Chronic Condition
+33,Not Disabled,None
+83,Not Disabled,None
+39,Disabled,None
+55,Not Disabled,Diabetes
+85,Disabled,Chronic Condition
+7,Not Disabled,Diabetes
+80,Not Disabled,None
+13,Disabled,None
+83,Not Disabled,None
+18,Not Disabled,Chronic Condition
+60,Disabled,None
+39,Not Disabled,Diabetes
+22,Disabled,Hypertension
+65,Not Disabled,Hypertension
+64,Not Disabled,Diabetes
+44,Disabled,Diabetes
+68,Disabled,Hypertension
+25,Disabled,Chronic Condition
+35,Disabled,Chronic Condition
+22,Not Disabled,None
+90,Disabled,Diabetes
+69,Disabled,Hypertension
+12,Disabled,Hypertension
+78,Disabled,Hypertension
+11,Not Disabled,Chronic Condition
+25,Not Disabled,Chronic Condition
+59,Not Disabled,Hypertension
+54,Disabled,Hypertension
+85,Disabled,None
+73,Disabled,None
+22,Not Disabled,None
+53,Not Disabled,None
+34,Disabled,None
+76,Disabled,Chronic Condition
+32,Not Disabled,Hypertension
+8,Not Disabled,None
+26,Not Disabled,Chronic Condition
+0,Disabled,None
+87,Disabled,Hypertension
+15,Disabled,Hypertension
+13,Disabled,Chronic Condition
+14,Disabled,Chronic Condition
+85,Not Disabled,None
+43,Not Disabled,Diabetes
+17,Not Disabled,Diabetes
+42,Disabled,Diabetes
+81,Disabled,Diabetes
+47,Not Disabled,None
+28,Disabled,Diabetes
+60,Not Disabled,Hypertension
+24,Not Disabled,Hypertension
+20,Disabled,Diabetes
+19,Not Disabled,Diabetes
+48,Disabled,None
+5,Not Disabled,Chronic Condition
+14,Not Disabled,Diabetes
+82,Not Disabled,Chronic Condition
+73,Not Disabled,None
+54,Disabled,Diabetes
+55,Disabled,Diabetes
+26,Not Disabled,Hypertension
+81,Not Disabled,Chronic Condition
+2,Disabled,Chronic Condition
+76,Not Disabled,None
+72,Not Disabled,Chronic Condition
+89,Disabled,Diabetes
+30,Disabled,Diabetes
+67,Not Disabled,Diabetes
+26,Disabled,Diabetes
+46,Not Disabled,None
+34,Not Disabled,None
+28,Not Disabled,Hypertension
+86,Disabled,None
+68,Disabled,None
+68,Not Disabled,Chronic Condition
+58,Disabled,Diabetes
+62,Disabled,None
+82,Not Disabled,Diabetes
+56,Not Disabled,Diabetes
+77,Disabled,None
+90,Not Disabled,Chronic Condition
+14,Not Disabled,Chronic Condition
+86,Disabled,Hypertension
+77,Not Disabled,None
+38,Disabled,None
+26,Not Disabled,None
+0,Not Disabled,Diabetes
+67,Not Disabled,Hypertension
+86,Disabled,Chronic Condition
+13,Not Disabled,None
+15,Disabled,Hypertension
+34,Disabled,None
+33,Not Disabled,Chronic Condition
+81,Not Disabled,None
+61,Not Disabled,Hypertension
+64,Not Disabled,Hypertension
+24,Disabled,Diabetes
+12,Not Disabled,Diabetes
+34,Disabled,None
+41,Disabled,Diabetes
+87,Not Disabled,None
+38,Not Disabled,Hypertension
+28,Not Disabled,Diabetes
+68,Disabled,None
+41,Disabled,Chronic Condition
+42,Not Disabled,None
+66,Not Disabled,Diabetes
+81,Not Disabled,Chronic Condition
+4,Not Disabled,None
+14,Disabled,None
+54,Disabled,Hypertension
+89,Disabled,Diabetes
+27,Disabled,Hypertension
+12,Not Disabled,Chronic Condition
+34,Not Disabled,Diabetes
+79,Disabled,None
+83,Not Disabled,None
+22,Not Disabled,None
+62,Disabled,Hypertension
+15,Not Disabled,Hypertension
+86,Disabled,None
+59,Disabled,Chronic Condition
+52,Not Disabled,None
+41,Disabled,None
+88,Not Disabled,None
+81,Disabled,None
+67,Not Disabled,None
+24,Disabled,Diabetes
+82,Not Disabled,Hypertension
+48,Not Disabled,Chronic Condition
+78,Not Disabled,None
+19,Disabled,Hypertension
+63,Disabled,None
+67,Not Disabled,Hypertension
+60,Disabled,None
+4,Disabled,None
+26,Not Disabled,None
+69,Disabled,None
+65,Disabled,None
+16,Disabled,Diabetes
+86,Not Disabled,Chronic Condition
+4,Disabled,Chronic Condition
+45,Disabled,None
+36,Disabled,None
+48,Not Disabled,Chronic Condition
+12,Not Disabled,None
+52,Disabled,Hypertension
+48,Disabled,Chronic Condition
+41,Not Disabled,Chronic Condition
+35,Disabled,None
+30,Disabled,None
+23,Not Disabled,Diabetes
+27,Disabled,Hypertension
+57,Not Disabled,None
+5,Disabled,None
+1,Not Disabled,Diabetes
+5,Not Disabled,Diabetes
+78,Not Disabled,Hypertension
+74,Disabled,Diabetes
+56,Disabled,None
+79,Disabled,Hypertension
+51,Disabled,Hypertension
+29,Not Disabled,None
+6,Disabled,None
+77,Not Disabled,Chronic Condition
+36,Not Disabled,Diabetes
+6,Disabled,Diabetes
+8,Not Disabled,None
+22,Disabled,None
+67,Not Disabled,Diabetes
+56,Disabled,None
+44,Disabled,None
+6,Not Disabled,None
+61,Not Disabled,Diabetes
+54,Not Disabled,Hypertension
+53,Not Disabled,Chronic Condition
+66,Disabled,Chronic Condition
+15,Disabled,Diabetes
+9,Disabled,Chronic Condition
+22,Not Disabled,Diabetes
+64,Disabled,Hypertension
+79,Disabled,Chronic Condition
+27,Disabled,Chronic Condition
+49,Not Disabled,None
+41,Not Disabled,Diabetes
+26,Not Disabled,Diabetes
+65,Not Disabled,Chronic Condition
+25,Not Disabled,None
+10,Not Disabled,None
+50,Disabled,Hypertension
+52,Disabled,None
+28,Not Disabled,None
+58,Not Disabled,Diabetes
+86,Disabled,None
+71,Not Disabled,None
+78,Not Disabled,Hypertension
+27,Disabled,None
+46,Disabled,None
+19,Not Disabled,Diabetes
+74,Not Disabled,Diabetes
+26,Disabled,Diabetes
+2,Not Disabled,None
+45,Disabled,None
+77,Not Disabled,Hypertension
+59,Not Disabled,None
+0,Not Disabled,Chronic Condition
+36,Not Disabled,Chronic Condition
+39,Disabled,None
+51,Not Disabled,Hypertension
+68,Disabled,Hypertension
+53,Not Disabled,Chronic Condition
+21,Not Disabled,Hypertension
+20,Disabled,Chronic Condition
+2,Disabled,Chronic Condition
+60,Not Disabled,Chronic Condition
+25,Disabled,Hypertension
+44,Not Disabled,Hypertension
+23,Not Disabled,Hypertension
+9,Not Disabled,None
+62,Disabled,Diabetes
+17,Not Disabled,Hypertension
+11,Disabled,None
+61,Disabled,Diabetes
+63,Not Disabled,None
+12,Not Disabled,None
+1,Not Disabled,Hypertension
+42,Disabled,Hypertension
+15,Not Disabled,Diabetes
+30,Disabled,Diabetes
+4,Disabled,Hypertension
+11,Disabled,None
+63,Not Disabled,None
+31,Not Disabled,Chronic Condition
+41,Not Disabled,Chronic Condition
+14,Not Disabled,Hypertension
+36,Not Disabled,None
+80,Disabled,Diabetes
+77,Disabled,Diabetes
+69,Not Disabled,Chronic Condition
+7,Not Disabled,Chronic Condition
+8,Not Disabled,Chronic Condition
+65,Not Disabled,None
+21,Disabled,None
+16,Not Disabled,Diabetes
+55,Not Disabled,Hypertension
+84,Disabled,None
+27,Disabled,Hypertension
+57,Not Disabled,None
+13,Not Disabled,None
+1,Disabled,Chronic Condition
+2,Not Disabled,None
+5,Not Disabled,Hypertension
+17,Not Disabled,Chronic Condition
+53,Disabled,Diabetes
+35,Disabled,None
+53,Disabled,None
+25,Disabled,None
+32,Disabled,None
+64,Disabled,Hypertension
+3,Disabled,Diabetes
+24,Disabled,Diabetes
+56,Not Disabled,Chronic Condition
+34,Disabled,Hypertension
+90,Not Disabled,Diabetes
+81,Disabled,None
+27,Not Disabled,Chronic Condition
+55,Not Disabled,Chronic Condition
+4,Not Disabled,Chronic Condition
+13,Disabled,None
+86,Disabled,None
+79,Disabled,Chronic Condition
+20,Not Disabled,Chronic Condition
+83,Not Disabled,Chronic Condition
+50,Not Disabled,None
+88,Disabled,None
+58,Disabled,Hypertension
+81,Not Disabled,Hypertension
+60,Not Disabled,None
+76,Disabled,Diabetes
+83,Disabled,Chronic Condition
+40,Disabled,Diabetes
+8,Disabled,None
+37,Not Disabled,Diabetes
+1,Not Disabled,Hypertension
+49,Disabled,None
+86,Not Disabled,Diabetes
+26,Disabled,None
+38,Not Disabled,None
+62,Disabled,Hypertension
+34,Not Disabled,None
+34,Not Disabled,None
+16,Disabled,Diabetes
+79,Disabled,Hypertension
+86,Not Disabled,Chronic Condition
+18,Not Disabled,Chronic Condition
+9,Not Disabled,Chronic Condition
+71,Disabled,Diabetes
+39,Not Disabled,Chronic Condition
+31,Disabled,Diabetes
+34,Disabled,Chronic Condition
+89,Not Disabled,None
+69,Not Disabled,Hypertension
+75,Not Disabled,None
+78,Disabled,Diabetes
+76,Disabled,Hypertension
+87,Disabled,None
+30,Disabled,Diabetes
+58,Not Disabled,Chronic Condition
+80,Disabled,Hypertension
+39,Not Disabled,Hypertension
+32,Not Disabled,Hypertension
+78,Disabled,Diabetes
+18,Not Disabled,Hypertension
+55,Not Disabled,Diabetes
+56,Disabled,Hypertension
+21,Not Disabled,None
+46,Disabled,Chronic Condition
+45,Disabled,None
+40,Not Disabled,None
+20,Disabled,Hypertension
+9,Not Disabled,None
+80,Not Disabled,Diabetes
+50,Disabled,Chronic Condition
+55,Not Disabled,None
+24,Disabled,None
+27,Not Disabled,Hypertension
+80,Disabled,Hypertension
+89,Not Disabled,Hypertension
+50,Disabled,Chronic Condition
+81,Disabled,Hypertension
+89,Not Disabled,None
+22,Not Disabled,Chronic Condition
+39,Not Disabled,Hypertension
+16,Disabled,Hypertension
+49,Not Disabled,None
+65,Disabled,Chronic Condition
+85,Not Disabled,None
+43,Not Disabled,Hypertension
+24,Disabled,Hypertension
+41,Disabled,Hypertension
+47,Not Disabled,None
+8,Not Disabled,Diabetes
+88,Disabled,Chronic Condition
+43,Disabled,None
+32,Disabled,None
+73,Not Disabled,None
+2,Not Disabled,Hypertension
+24,Disabled,Diabetes
+82,Not Disabled,Hypertension
+82,Not Disabled,Hypertension
+30,Disabled,Diabetes
+67,Not Disabled,Chronic Condition
+58,Not Disabled,None
+67,Disabled,Diabetes
+79,Disabled,Diabetes
+38,Disabled,None
+47,Not Disabled,Diabetes
+28,Disabled,None
+36,Disabled,Hypertension
+50,Disabled,Chronic Condition
+4,Not Disabled,Chronic Condition
+28,Disabled,Hypertension
+13,Not Disabled,Diabetes
+83,Disabled,Diabetes
+4,Not Disabled,Hypertension
+78,Disabled,None
+59,Not Disabled,Chronic Condition
+45,Not Disabled,None
+48,Disabled,None
+61,Not Disabled,Hypertension
+10,Not Disabled,None
+71,Disabled,None
+36,Disabled,Chronic Condition
+57,Disabled,None
+57,Disabled,Chronic Condition
+70,Disabled,Hypertension
+34,Not Disabled,Chronic Condition
+26,Disabled,None
+6,Not Disabled,None
+28,Disabled,None
+60,Not Disabled,Chronic Condition
+2,Not Disabled,Hypertension
+53,Disabled,None
+40,Disabled,Diabetes
+36,Disabled,Hypertension
+14,Not Disabled,Diabetes
+3,Not Disabled,None
+40,Not Disabled,Hypertension
+27,Disabled,None
+76,Disabled,Chronic Condition
+89,Disabled,Hypertension
+49,Not Disabled,Chronic Condition
+88,Not Disabled,Diabetes
+35,Disabled,None
+62,Disabled,None
+0,Not Disabled,Diabetes
+87,Not Disabled,None
+87,Disabled,Diabetes
+31,Not Disabled,None
+9,Disabled,None
+2,Not Disabled,Diabetes
+58,Disabled,Chronic Condition
+32,Not Disabled,Diabetes
+52,Not Disabled,None
+21,Not Disabled,Chronic Condition
+78,Disabled,None
+78,Not Disabled,Chronic Condition
+23,Not Disabled,Chronic Condition
+77,Not Disabled,Hypertension
+21,Not Disabled,None
+32,Not Disabled,None
+19,Not Disabled,None
+50,Not Disabled,Chronic Condition
+13,Not Disabled,None
+63,Disabled,Hypertension
+84,Not Disabled,Diabetes
+79,Disabled,None
+63,Not Disabled,Chronic Condition
+55,Not Disabled,None
+79,Not Disabled,Hypertension
+89,Disabled,Chronic Condition
+60,Not Disabled,None
+6,Disabled,Hypertension
+54,Not Disabled,Chronic Condition
+52,Disabled,None
+85,Disabled,Chronic Condition
+81,Not Disabled,None
+15,Not Disabled,None
+41,Disabled,Hypertension
+74,Disabled,Hypertension
+0,Disabled,Chronic Condition
+1,Not Disabled,None
+90,Not Disabled,None
+8,Not Disabled,Chronic Condition
+64,Disabled,Chronic Condition
+73,Disabled,Hypertension
+38,Not Disabled,Chronic Condition
+62,Not Disabled,Diabetes
+61,Disabled,Diabetes
+89,Not Disabled,None
+6,Not Disabled,Diabetes
+14,Disabled,Hypertension
+52,Disabled,None
+41,Not Disabled,Chronic Condition
+56,Not Disabled,None
+23,Disabled,None
+75,Not Disabled,Hypertension
+9,Disabled,None
+90,Disabled,None
+12,Disabled,Chronic Condition
+46,Not Disabled,Hypertension
+5,Disabled,Hypertension
+15,Not Disabled,None
+36,Not Disabled,Hypertension
+59,Disabled,Hypertension
+83,Not Disabled,None
+14,Disabled,Hypertension
+19,Disabled,Chronic Condition
+19,Not Disabled,Hypertension
+1,Disabled,Hypertension
+49,Not Disabled,Diabetes
+11,Not Disabled,None
+62,Disabled,Chronic Condition
+36,Disabled,Diabetes
+35,Disabled,None
+56,Disabled,Hypertension
+89,Disabled,Chronic Condition
+68,Not Disabled,Chronic Condition
+12,Not Disabled,None
+81,Disabled,Hypertension
+57,Not Disabled,Hypertension
+16,Disabled,None
+51,Disabled,Hypertension
+88,Disabled,Hypertension
+26,Not Disabled,Diabetes
+85,Disabled,Chronic Condition
+66,Disabled,Diabetes
+21,Disabled,Chronic Condition
+7,Disabled,None
+61,Not Disabled,Chronic Condition
+34,Not Disabled,None
+79,Disabled,Hypertension
+41,Not Disabled,Hypertension
+13,Disabled,Hypertension
+79,Disabled,Hypertension
+11,Disabled,Chronic Condition
+27,Disabled,None
+70,Disabled,Hypertension
+37,Not Disabled,Chronic Condition
+73,Disabled,None
+62,Disabled,None
+81,Not Disabled,Diabetes
+69,Disabled,Hypertension
+18,Not Disabled,None
+47,Not Disabled,None
+73,Disabled,None
+90,Not Disabled,None
+16,Not Disabled,Hypertension
+61,Disabled,Chronic Condition
+78,Not Disabled,Diabetes
+51,Disabled,None
+34,Not Disabled,Diabetes
+4,Not Disabled,Diabetes
+73,Not Disabled,Chronic Condition
+81,Not Disabled,None
+67,Disabled,Hypertension
+4,Not Disabled,Hypertension
+29,Not Disabled,Chronic Condition
+22,Disabled,Chronic Condition
+13,Disabled,Hypertension
+48,Disabled,Hypertension
+4,Not Disabled,Hypertension
+38,Not Disabled,Hypertension
+57,Disabled,Hypertension
+52,Not Disabled,Hypertension
+81,Disabled,Hypertension
+42,Disabled,Hypertension
+12,Disabled,None
+46,Not Disabled,Hypertension
+11,Not Disabled,None
+57,Disabled,Diabetes
+4,Not Disabled,Diabetes
+21,Disabled,Diabetes
+82,Not Disabled,None
+48,Not Disabled,None
+42,Disabled,None
+63,Not Disabled,None
+6,Disabled,Hypertension
+80,Not Disabled,Diabetes
+64,Not Disabled,Diabetes
+35,Not Disabled,None
+66,Not Disabled,None
+0,Not Disabled,None
+8,Disabled,None
+80,Not Disabled,None
+44,Disabled,Chronic Condition
+82,Disabled,Diabetes
+50,Not Disabled,None
+45,Disabled,Chronic Condition
+34,Disabled,None
+57,Not Disabled,None
+59,Disabled,Hypertension
+53,Disabled,Hypertension
+75,Not Disabled,None
+57,Disabled,None
+40,Not Disabled,Diabetes
+82,Disabled,Hypertension
+87,Not Disabled,Chronic Condition
+54,Disabled,None
+14,Not Disabled,Hypertension
+37,Not Disabled,Hypertension
+32,Not Disabled,Diabetes
+24,Not Disabled,None
+67,Disabled,Chronic Condition
+9,Not Disabled,Chronic Condition
+25,Disabled,Chronic Condition
+48,Disabled,Chronic Condition
+54,Not Disabled,Hypertension
+26,Not Disabled,Hypertension
+2,Not Disabled,Diabetes
+42,Not Disabled,Chronic Condition
+9,Disabled,Diabetes
+51,Not Disabled,Chronic Condition
+45,Not Disabled,None
+21,Not Disabled,Hypertension
+5,Not Disabled,None
+49,Not Disabled,None
+79,Not Disabled,None
+28,Disabled,None
+78,Disabled,Chronic Condition
+89,Disabled,Chronic Condition
+32,Disabled,None
+50,Not Disabled,None
+28,Disabled,Chronic Condition
+53,Disabled,Hypertension
+25,Disabled,None
+19,Not Disabled,Hypertension
+12,Not Disabled,Hypertension
+61,Disabled,None
+86,Not Disabled,Chronic Condition
+25,Not Disabled,Hypertension
+60,Disabled,Chronic Condition
+49,Not Disabled,Chronic Condition
+68,Not Disabled,None
+15,Disabled,Diabetes
+39,Disabled,None
+51,Disabled,None
+62,Disabled,None
+77,Disabled,Hypertension
+80,Not Disabled,None
+45,Not Disabled,Diabetes
+60,Disabled,Hypertension
+50,Not Disabled,Chronic Condition
+66,Not Disabled,Chronic Condition
+1,Not Disabled,Chronic Condition
+14,Not Disabled,Hypertension
+52,Disabled,Diabetes
+35,Not Disabled,Diabetes
+74,Disabled,Diabetes
+22,Not Disabled,Hypertension
+67,Not Disabled,None
+67,Disabled,Hypertension
+58,Not Disabled,None
+60,Not Disabled,Diabetes
+35,Disabled,Chronic Condition
+50,Disabled,Hypertension
+18,Disabled,Diabetes
+59,Disabled,None
+73,Not Disabled,None
+53,Disabled,Diabetes
+85,Not Disabled,Hypertension
+21,Disabled,Chronic Condition
+17,Disabled,Hypertension
+57,Not Disabled,None
+9,Not Disabled,Hypertension
+73,Not Disabled,None
+63,Not Disabled,Hypertension
+68,Disabled,Hypertension
+75,Not Disabled,None
+83,Disabled,Hypertension
+66,Not Disabled,Chronic Condition
+64,Disabled,None
+76,Disabled,Diabetes
+84,Not Disabled,Hypertension
+18,Disabled,None
+27,Not Disabled,Chronic Condition
+1,Not Disabled,Diabetes
+23,Not Disabled,None
+32,Disabled,None
+52,Not Disabled,None
+79,Not Disabled,None
+49,Disabled,Chronic Condition
+56,Disabled,None
+35,Not Disabled,None
+62,Not Disabled,Hypertension
+34,Not Disabled,Chronic Condition
+59,Disabled,None
+37,Not Disabled,Chronic Condition
+80,Not Disabled,None
+31,Disabled,Diabetes
+69,Not Disabled,Diabetes
+87,Not Disabled,Hypertension
+0,Not Disabled,Chronic Condition
+20,Disabled,Diabetes
+53,Not Disabled,Hypertension
+21,Not Disabled,Hypertension
+80,Not Disabled,Diabetes
+63,Disabled,None
+57,Not Disabled,None
+56,Not Disabled,Diabetes
+8,Disabled,Diabetes
+45,Not Disabled,Hypertension
+29,Disabled,Chronic Condition
+17,Disabled,None
+88,Not Disabled,None
+24,Not Disabled,Chronic Condition
+13,Not Disabled,None
+76,Disabled,Diabetes
+40,Disabled,None
+37,Not Disabled,Hypertension
+40,Not Disabled,None
+1,Not Disabled,Chronic Condition
+6,Not Disabled,None
+62,Not Disabled,Hypertension
+75,Not Disabled,Diabetes
+83,Disabled,Diabetes
+27,Not Disabled,Chronic Condition
+35,Not Disabled,Diabetes
+22,Not Disabled,None
+18,Disabled,Chronic Condition
+36,Not Disabled,Diabetes
+43,Not Disabled,Chronic Condition
+28,Not Disabled,Hypertension
+55,Disabled,Hypertension
+75,Not Disabled,Chronic Condition
+41,Disabled,Hypertension
+57,Not Disabled,Diabetes
+59,Not Disabled,Diabetes
+67,Disabled,Chronic Condition
+80,Not Disabled,Chronic Condition
+65,Disabled,None
+60,Not Disabled,Chronic Condition
+30,Disabled,Diabetes
+85,Not Disabled,Hypertension
+10,Not Disabled,Chronic Condition
+68,Not Disabled,None
+29,Disabled,Diabetes
+82,Disabled,Chronic Condition
+38,Disabled,Hypertension
+17,Disabled,Diabetes
+22,Disabled,None
+0,Not Disabled,Hypertension
+41,Not Disabled,Chronic Condition
+87,Not Disabled,None
+62,Disabled,Chronic Condition
+24,Disabled,None
+74,Disabled,None
+71,Disabled,None
+47,Not Disabled,Chronic Condition
+60,Disabled,Chronic Condition
+10,Disabled,Hypertension
+46,Disabled,Hypertension
+34,Disabled,Hypertension
+28,Not Disabled,Hypertension
+54,Not Disabled,Diabetes
+81,Not Disabled,Chronic Condition
+11,Disabled,None
+48,Disabled,Diabetes
+60,Not Disabled,Hypertension
+45,Disabled,None
+0,Disabled,Hypertension
+72,Not Disabled,Diabetes
+12,Not Disabled,Chronic Condition
+34,Disabled,None
+39,Disabled,None
+88,Not Disabled,Hypertension
+72,Not Disabled,Hypertension
+24,Disabled,None
+18,Not Disabled,Hypertension
+16,Disabled,Hypertension
+5,Disabled,Chronic Condition
+31,Disabled,None
+9,Disabled,Chronic Condition
+23,Disabled,None
+14,Disabled,None
+64,Not Disabled,None
+80,Disabled,None
+39,Not Disabled,Chronic Condition
+42,Disabled,Chronic Condition
+54,Disabled,Diabetes
+0,Not Disabled,None
+78,Disabled,Chronic Condition
+62,Not Disabled,Chronic Condition
+71,Not Disabled,None
+41,Not Disabled,None
+63,Disabled,Hypertension
+58,Not Disabled,Hypertension
+29,Disabled,None
+51,Not Disabled,None
+82,Not Disabled,None
+4,Disabled,Hypertension
+69,Disabled,None
+56,Disabled,None
+51,Not Disabled,None
+58,Not Disabled,None
+26,Disabled,Diabetes
+85,Not Disabled,None
+52,Not Disabled,Hypertension
+74,Not Disabled,Diabetes
+72,Disabled,None
+27,Not Disabled,Chronic Condition
+44,Disabled,Chronic Condition
+27,Disabled,None
+58,Disabled,Diabetes
+80,Disabled,None
+51,Disabled,None
+38,Disabled,None
+81,Not Disabled,None
+2,Disabled,Chronic Condition
+54,Not Disabled,Diabetes
+86,Not Disabled,None
+57,Disabled,None
+7,Disabled,Hypertension
+30,Disabled,Hypertension
+7,Disabled,None
+38,Disabled,Diabetes
+70,Not Disabled,None
+20,Not Disabled,Chronic Condition
+7,Disabled,Hypertension
+60,Not Disabled,Diabetes
+47,Disabled,Chronic Condition
+31,Not Disabled,None
+36,Disabled,None
+88,Disabled,None
+12,Disabled,None
+45,Disabled,Diabetes
+63,Disabled,Hypertension
+71,Disabled,None
+42,Not Disabled,Diabetes
+80,Not Disabled,Hypertension
+71,Disabled,Chronic Condition
+17,Not Disabled,None
+36,Not Disabled,Chronic Condition
+41,Not Disabled,Hypertension
+71,Not Disabled,Chronic Condition
+66,Disabled,None
+74,Not Disabled,None
+72,Disabled,None
+40,Disabled,Hypertension
+74,Not Disabled,None
+12,Disabled,Diabetes
+51,Not Disabled,None
+34,Not Disabled,Hypertension
+25,Disabled,None
+28,Not Disabled,Hypertension
+89,Disabled,Hypertension
+35,Disabled,None
+83,Not Disabled,Hypertension
